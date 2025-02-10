@@ -10,6 +10,6 @@ Chara quest, start to finish, with a bit of "skip this dialogue", took me about 
 
 #### Carlotta
 
-Starting at time index 1:35
-End Index 3:38
-Total time ~2h
+* Starting at time index 1:35
+* End Index 3:38
+* Total time ~2h
